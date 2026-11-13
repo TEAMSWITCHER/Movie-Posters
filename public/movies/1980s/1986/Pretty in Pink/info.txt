@@ -1,0 +1,3 @@
+month=February
+day=28
+size=27x41

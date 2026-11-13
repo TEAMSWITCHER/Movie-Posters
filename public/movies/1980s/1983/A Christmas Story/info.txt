@@ -1,0 +1,3 @@
+month=November
+day=18
+size=27x41

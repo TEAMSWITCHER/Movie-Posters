@@ -1,0 +1,2 @@
+month=June
+day=13

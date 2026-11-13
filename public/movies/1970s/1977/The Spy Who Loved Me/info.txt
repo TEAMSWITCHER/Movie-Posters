@@ -1,0 +1,3 @@
+month=July
+day=7
+size=27x41

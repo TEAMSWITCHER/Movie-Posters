@@ -1,0 +1,57 @@
+/* Global Theme Variables */
+:root {
+  /* Color Palette */
+  --color-black: #000000;
+  --color-white: #FFFFFF;
+  --color-primary: #2196F3;
+  --color-primary-light: #87CEEB;
+  --color-gray-dark: #696969;
+  --color-gray-light: #CCCCCC;
+  --color-gray-lighter: #F1F1F1;
+  --color-border: #808080;
+  
+  /* Spacing Variables */
+  --spacing-xs: 3px;
+  --spacing-sm: 5px;
+  --spacing-md: 10px;
+  --spacing-lg: 14px;
+  --spacing-xl: 30px;
+  
+  /* Border Variables */
+  --border-width: 30px;
+  --border-width-double: 60px;
+  --border-radius-small: 3px;
+  --border-radius-medium: 10px;
+  --border-radius-large: 34px;
+  
+  /* Poster Size Ratios for 27x41 */
+  --ratio-27x41-header: 0.130;
+  --ratio-27x41-footer: 1.65;
+  --ratio-27x41-footer-height: 0.13;
+  
+  /* Poster Size Ratios for 27x40 */
+  --ratio-27x40-header: 0.148;
+  --ratio-27x40-footer: 1.63;
+  --ratio-27x40-footer-height: 0.148;
+  
+  /* Animation Variables */
+  --transition-speed: 0.3s;
+  --transition-speed-slow: 0.4s;
+  
+  /* Z-index layers */
+  --z-index-modal: 1000;
+  --z-index-backdrop: 999;
+  
+  /* Component Dimensions */
+  --modal-width: 540px;
+  --modal-width-large: 600px;
+  --button-width: 125px;
+  --button-width-small: 50px;
+  --input-width: 250px;
+}
+
+/* Reset and Base Styles */
+body {
+  margin: 0;
+  padding: 0;
+}

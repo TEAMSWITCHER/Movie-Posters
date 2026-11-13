@@ -1,0 +1,3 @@
+month=February
+day=15
+size=27x41

@@ -1,0 +1,3 @@
+month=December
+day=22
+size=27x41

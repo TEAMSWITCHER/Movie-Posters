@@ -1,0 +1,3 @@
+month=December
+day=16
+size=27x41

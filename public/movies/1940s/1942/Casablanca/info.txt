@@ -1,0 +1,3 @@
+month=January
+day=23
+size=27x41

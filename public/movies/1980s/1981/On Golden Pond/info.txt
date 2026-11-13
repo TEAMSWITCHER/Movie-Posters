@@ -1,0 +1,3 @@
+month=December
+day=4
+size=27x41

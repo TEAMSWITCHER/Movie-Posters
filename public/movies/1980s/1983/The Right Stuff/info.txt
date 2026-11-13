@@ -1,0 +1,3 @@
+month=October
+day=21
+size=27x41

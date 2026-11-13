@@ -1,0 +1,3 @@
+month=June
+day=17
+size=27x41
